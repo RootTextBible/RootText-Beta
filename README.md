@@ -16,24 +16,7 @@ RootText is a comprehensive Bible study application featuring:
 
 ### 1️⃣ Download the Application
 
-Go to [**Releases**](https://github.com/RootTextBible/RootText-Beta/releases) and download the latest version.
-
-### 2️⃣ Download the Database
-
-The database file is shared separately (7+ GB of Bible texts and scholarly data).
-
-📥 **Database download link:** [Contact the developer for access]
-
-### 3️⃣ Install
-
-1. Extract `RootText-Windows-x64-vX.X.X.zip`
-2. Run `RootText.exe` once, then close it
-3. Extract `roottext.db` from the database download
-4. Place `roottext.db` in the same folder as `install-database.bat`
-5. Run `install-database.bat`
-6. Launch `RootText.exe` again
-
-🎉 You're ready to study!
+Go to [**Releases**](https://github.com/RootTextBible/RootText-Beta/releases) and follow the directions to download and install the latest version.
 
 ---
 
